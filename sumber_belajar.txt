@@ -2,3 +2,5 @@ daftar sumber belajar c++
   * geeks for geeks
   * tutrialspoint
   * kelas terbuka
+  * web toki
+  * web resmi c++
